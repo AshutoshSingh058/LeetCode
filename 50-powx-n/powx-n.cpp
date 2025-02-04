@@ -6,7 +6,7 @@ class Solution {
         while(nn>0){
             if(nn%2==1){
                 ans=ans*x;
-                nn-=1;
+                nn--;
             }else{
                 x=(x*x);
                 nn/=2;
