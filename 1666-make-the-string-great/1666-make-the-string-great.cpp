@@ -1,22 +1,28 @@
 class Solution {
 public:
-    string makeGood(string s) {
-        stack<char>stk;
-        int n =  s.length();
-        stk.push(s[0]);
-        for(int i=1; i<n; i++){
-            if(!stk.empty() && (int(s[i]-'a')==int(stk.top()-'A') || int(s[i]-'A')==int(stk.top()-'a')) ){
-                stk.pop();
-            }
-            else{
-                stk.push(s[i]);
-            }
+    bool check(char a, char b) {
+        if ((a | 0x20) != (b | 0x20))
+            return false;
+        return (((a ^ b) & 0x20));
+    }
+
+    string makeGood(string &s) {
+        stack<char> st;
+        for (auto &&ch: s) {
+            if (!st.empty()) {
+                if (check(st.top(), ch))
+                    st.pop();
+                else
+                    st.push(ch);
+            } else 
+                st.push(ch);
         }
-        string st = "";
-        while(!stk.empty()){
-            st+=stk.top(); stk.pop();
+        string ans;
+        while (!st.empty()) {
+            ans.push_back(st.top());
+            st.pop();
         }
-        reverse(st.begin(), st.end());
-        return st;
+        reverse(ans.begin(), ans.end());
+        return ans;
     }
 };
