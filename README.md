@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [3817-maximum-containers-on-a-ship](https://github.com/AshutoshSingh058/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
