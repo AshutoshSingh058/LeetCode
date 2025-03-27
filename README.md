@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Matrix
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Hash Table
+|  |
+| ------- |
+| [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 <!---LeetCode Topics End-->
