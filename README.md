@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
