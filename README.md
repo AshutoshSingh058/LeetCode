@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
