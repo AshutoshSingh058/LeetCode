@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AshutoshSingh058/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
