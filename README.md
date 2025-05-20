@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AshutoshSingh058/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/AshutoshSingh058/LeetCode/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AshutoshSingh058/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## String
 |  |
 | ------- |
