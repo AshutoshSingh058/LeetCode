@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshutoshSingh058/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/AshutoshSingh058/LeetCode/tree/master/1666-make-the-string-great) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/AshutoshSingh058/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 <!---LeetCode Topics End-->
