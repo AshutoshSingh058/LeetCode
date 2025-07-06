@@ -7,7 +7,7 @@ class Solution {
 
     for (const string& num : nums) {
       const int k = num.length();
-      if (k >n)
+      if (k >= n)
         continue;
       if (target.substr(0, k) == num)
         ans += count[target.substr(k)];
