@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AshutoshSingh058/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/AshutoshSingh058/LeetCode/tree/master/0022-generate-parentheses) |
 | [0768-partition-labels](https://github.com/AshutoshSingh058/LeetCode/tree/master/0768-partition-labels) |
 | [1666-make-the-string-great](https://github.com/AshutoshSingh058/LeetCode/tree/master/1666-make-the-string-great) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AshutoshSingh058/LeetCode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/AshutoshSingh058/LeetCode/tree/master/0089-gray-code) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AshutoshSingh058/LeetCode/tree/master/0022-generate-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
