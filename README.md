@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshSingh058/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AshutoshSingh058/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshSingh058/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/AshutoshSingh058/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshutoshSingh058/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AshutoshSingh058/LeetCode/tree/master/0022-generate-parentheses) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshSingh058/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshutoshSingh058/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/AshutoshSingh058/LeetCode/tree/master/0768-partition-labels) |
