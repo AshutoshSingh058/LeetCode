@@ -314,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AshutoshSingh058/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
