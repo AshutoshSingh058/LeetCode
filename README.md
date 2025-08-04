@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/AshutoshSingh058/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/AshutoshSingh058/LeetCode/tree/master/0890-lemonade-change) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshutoshSingh058/LeetCode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AshutoshSingh058/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AshutoshSingh058/LeetCode/tree/master/0768-partition-labels) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AshutoshSingh058/LeetCode/tree/master/0055-jump-game) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AshutoshSingh058/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search Tree
