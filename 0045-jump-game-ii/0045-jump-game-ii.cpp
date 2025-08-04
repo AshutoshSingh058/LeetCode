@@ -1,18 +1,24 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {
-        int n = nums.size();
-        int jumps = 0, currentEnd = 0, farthest = 0;
-
-        for (int i = 0; i < n - 1; ++i) {
-            farthest = max(farthest, i + nums[i]);
-
-            if (i == currentEnd) {
-                jumps++;
-                currentEnd = farthest;
+    int jump(vector<int>& v) {
+        int n=v.size(), x=0,y=0, xc=0, i=0;
+        
+        if(xc>=n-1)return 0;
+        y++; xc=max(xc, 0+v[0]);
+        while(true){
+            if(xc>=n-1)break;   
+            for( int j=i+v[i]; j>=i; j--){
+                if(j+v[j]>xc){
+                    xc=j+v[j];
+                    x=j;
+                }
             }
+            y++;
+            cout<<xc<<endl;
+            
+            if(xc>=n-1)break;   
+            i=x;
         }
-
-        return jumps;
+        return y;
     }
 };
