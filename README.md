@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshutoshSingh058/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/AshutoshSingh058/LeetCode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
