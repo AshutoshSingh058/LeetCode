@@ -1,34 +1,35 @@
 class Solution {
 public:
     vector<int> findOrder(int n, vector<vector<int>>& preq) {
-        vector<vector<int>> adj(n);
-        vector<int> indegree(n, 0);
+        vector<int>ans;
+        vector<int> indegree(n,0), vis(n,0);
 
-        // build graph
-        for (auto &p : preq) {
-            adj[p[1]].push_back(p[0]);  // edge: p[1] -> p[0]
-            indegree[p[0]]++;
+        for(int i=0; i<preq.size(); i++){
+            indegree[preq[i][0]]++;
         }
-
-        queue<int> q;
-        vector<int> ans;
-
-        // push nodes with indegree 0
-        for (int i = 0; i < n; i++) {
-            if (indegree[i] == 0) q.push(i);
+        queue<int>q;
+        for(int i=0; i<n; i++){
+            if(indegree[i]==0){
+                q.push(i);
+                vis[i]=1;
+            }
         }
-
-        while (!q.empty()) {
-            int u = q.front(); q.pop();
-            ans.push_back(u);
-
-            for (int v : adj[u]) {
-                indegree[v]--;
-                if (indegree[v] == 0) q.push(v);
+        while(!q.empty()){
+            int x= q.front(); ans.push_back(x); q.pop();
+            for(int i=0; i<preq.size(); i++){
+                if(preq[i][1]==x){
+                    int y = preq[i][0];
+                    indegree[y]--;
+                    if(indegree[y] == 0 && vis[y]==0) {
+                        vis[y]=1;
+                        q.push(y);
+                    }
+                }
+                
             }
         }
 
-        if ((int)ans.size() != n) return {};  // cycle → impossible
+        if(ans.size()!=n)return {};
         return ans;
     }
 };
