@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Counting
 |  |
 | ------- |
@@ -371,4 +374,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
