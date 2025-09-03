@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AshutoshSingh058/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AshutoshSingh058/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -405,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AshutoshSingh058/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
