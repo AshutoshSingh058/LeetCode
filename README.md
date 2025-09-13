@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshutoshSingh058/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AshutoshSingh058/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AshutoshSingh058/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshutoshSingh058/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/AshutoshSingh058/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Stack
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/AshutoshSingh058/LeetCode/tree/master/0876-hand-of-straights) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/AshutoshSingh058/LeetCode/tree/master/0768-partition-labels) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
