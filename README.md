@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AshutoshSingh058/LeetCode/tree/master/0175-combine-two-tables) |
+| [1258-article-views-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/1258-article-views-i) |
 ## Trie
 |  |
 | ------- |
