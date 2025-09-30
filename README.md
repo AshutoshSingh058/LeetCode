@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AshutoshSingh058/LeetCode/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/AshutoshSingh058/LeetCode/tree/master/0197-rising-temperature) |
 | [1258-article-views-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/1258-article-views-i) |
+| [1801-average-time-of-process-per-machine](https://github.com/AshutoshSingh058/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 ## Trie
 |  |
 | ------- |
