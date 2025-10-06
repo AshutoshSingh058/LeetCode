@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/AshutoshSingh058/LeetCode/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/AshutoshSingh058/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
