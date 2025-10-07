@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/AshutoshSingh058/LeetCode/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/AshutoshSingh058/LeetCode/tree/master/0197-rising-temperature) |
+| [0596-classes-with-at-least-5-students](https://github.com/AshutoshSingh058/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/1161-project-employees-i) |
