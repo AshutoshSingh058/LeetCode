@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AshutoshSingh058/LeetCode/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/AshutoshSingh058/LeetCode/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/AshutoshSingh058/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/AshutoshSingh058/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/AshutoshSingh058/LeetCode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1155-product-sales-analysis-iii) |
