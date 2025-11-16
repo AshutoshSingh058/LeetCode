@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshutoshSingh058/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AshutoshSingh058/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AshutoshSingh058/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AshutoshSingh058/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Hash Table
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Tree
 |  |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -375,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Recursion
 |  |
