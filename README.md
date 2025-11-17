@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AshutoshSingh058/LeetCode/tree/master/0089-gray-code) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/AshutoshSingh058/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AshutoshSingh058/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshutoshSingh058/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshutoshSingh058/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/AshutoshSingh058/LeetCode/tree/master/0686-repeated-string-match) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
