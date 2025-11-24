@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/AshutoshSingh058/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/AshutoshSingh058/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshutoshSingh058/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
