@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/AshutoshSingh058/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/AshutoshSingh058/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/AshutoshSingh058/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/AshutoshSingh058/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
