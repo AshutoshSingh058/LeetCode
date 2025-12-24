@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/AshutoshSingh058/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/AshutoshSingh058/LeetCode/tree/master/0876-hand-of-straights) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshSingh058/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AshutoshSingh058/LeetCode/tree/master/0355-design-twitter) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AshutoshSingh058/LeetCode/tree/master/0994-rotting-oranges) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AshutoshSingh058/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshutoshSingh058/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/AshutoshSingh058/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/AshutoshSingh058/LeetCode/tree/master/0827-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AshutoshSingh058/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -395,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-swim-in-rising-water](https://github.com/AshutoshSingh058/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
