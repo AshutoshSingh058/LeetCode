@@ -12,27 +12,55 @@ public:
     //     return dp[i][j] = left + up;
     // }
 
-    int uniquePaths(int m, int n) {
-        //memoization
-        // vector<vector<int>> dp(m, vector<int>(n,-1));
-        // return func(m-1,n-1, dp);
+    // int uniquePaths(int m, int n) {
+    //     //memoization
+    //     // vector<vector<int>> dp(m, vector<int>(n,-1));
+    //     // return func(m-1,n-1, dp);
 
-        // tablulation
-        vector<vector<int>> dp(m, vector<int>(n,-1));
+    //     // tablulation
+    //     // vector<vector<int>> dp(m, vector<int>(n,-1));
+
+    //     // space optimization
+    //     vector<int> prev(m,0);
+    //     for (int i=0; i< m; i++){
+    //             //for SC 
+    //             vector<int> temp(n,0);
+    //         for(int j =0; j<n; j++){
+    //             if( i ==0 && j == 0) dp[i][j] =1;
+    //             else {
+    //                 int up =0, left =0;
+    //                 if(i> 0) up = dp[i-1][j];
+    //                 if(j> 0) left = dp[i][j-1];
+
+    //                 dp[i][j] = up + left;
+    //             }
+
+    //         }
+    //     }
+    //     return dp[m-1][n-1]; 
+    // }
+    
+    int uniquePaths(int m, int n) {
+        // space optimization
+        vector<int> prev(n,0);
         for (int i=0; i< m; i++){
+            vector<int> temp(n,0);
 
             for(int j =0; j<n; j++){
-                if( i ==0 && j == 0) dp[i][j] =1;
+                if( i ==0 && j == 0) temp[j] =1;
                 else {
                     int up =0, left =0;
-                    if(i> 0) up = dp[i-1][j];
-                    if(j> 0) left = dp[i][j-1];
+                    up = prev[j];
+                    if(j> 0) left = temp[j-1];
 
-                    dp[i][j] = up + left;
+                    temp[j] = up + left;
+                    cout<<temp[j]<<" ";
                 }
-
             }
+            cout<<endl;
+            prev = temp;
         }
-        return dp[m-1][n-1];
+
+        return prev[n-1];
     }
 };
