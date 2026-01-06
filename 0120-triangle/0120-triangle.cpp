@@ -20,23 +20,30 @@ public:
         // return func(0, 0, n, a, dp);
 
         // tabulation
-        vector<vector<int>> dp(n, vector<int>(n,-1));
-
+        // vector<vector<int>> dp(n, vector<int>(n,-1));
+        // Space optimise
+        vector<int> front(n);
         for(int j =0; j<n; j++){
-            dp[n-1][j] = a[n-1][j];
+            // dp[n-1][j] = a[n-1][j];
+            front[j] = a[n-1][j];
         }
 
         for(int i=n-2; i>=0; i--){
-
+            // for sc
+            vector<int> curr(n);
             for( int j = i; j>=0; j--){
-                int d = a[i][j] + dp[i+1][j];
-                int dg = a[i][j] + dp[i+1][j+1];
+                // int d = a[i][j] + dp[i+1][j];
+                int d = a[i][j] + front[j];
+                // int dg = a[i][j] + dp[i+1][j+1];
+                int dg = a[i][j] + front[j+1];
                 
-                dp[i][j] = min(d, dg);
+                // dp[i][j] = min(d, dg);
+                curr[j] = min(d, dg);
             }
+            front = curr;
         }
 
-        return dp[0][0];
+        return front[0];
 
     }
 };
