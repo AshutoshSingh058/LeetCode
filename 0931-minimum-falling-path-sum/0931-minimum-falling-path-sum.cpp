@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int func(int i, int j, int n, vector<vector<int>>& a, vector<vector<int>>& dp ){
-        if(j<0 || j>=n) return 1e9;
-        if(i==0) return a[i][j];
-        if(dp[i][j] != -1) return dp[i][j];
-        // Memoization
-        int up = a[i][j] + func(i-1, j, n, a, dp);
-        int rd = a[i][j] + func(i-1, j-1, n, a, dp);
-        int ld = a[i][j] + func(i-1, j+1, n, a, dp);
+    // int func(int i, int j, int n, vector<vector<int>>& a, vector<vector<int>>& dp ){
+    //     if(j<0 || j>=n) return 1e9;
+    //     if(i==0) return a[i][j];
+    //     if(dp[i][j] != -1) return dp[i][j];
+    //     // Memoization
+    //     int up = a[i][j] + func(i-1, j, n, a, dp);
+    //     int rd = a[i][j] + func(i-1, j-1, n, a, dp);
+    //     int ld = a[i][j] + func(i-1, j+1, n, a, dp);
 
-        return dp[i][j] = min ({up, rd, ld});
-    }
+    //     return dp[i][j] = min ({up, rd, ld});
+    // }
 
     int minFallingPathSum(vector<vector<int>>& a) {
         int n = a.size();
