@@ -20,25 +20,35 @@ public:
         //     mini = min(mini, func(n-1, j, n,  a, dp));
         // }
         // return mini;
-
+        
         // Tabulation
+        // SC
+        vector<int> prev (n, -1);
         for(int j=0; j<n; j++){
-            dp[0][j] = a[0][j];
+            // dp[0][j] = a[0][j];
+            prev[j] = a[0][j];
         }
-
         for(int i=1; i<n; i++) {
+            // SC
+            vector<int> temp(n, -1);
+
             for(int j=0; j<n; j++){
-
                 int d = 1e7, ld = 1e7, rd = 1e7;
-                d = a[i][j] + dp[i-1][j];
-                if( j-1 >= 0) ld = a[i][j] + dp[i-1][j-1];
-                if( j+1 < n ) rd = a[i][j] + dp[i-1][j+1];
+                // d = a[i][j] + dp[i-1][j];
+                d = a[i][j] + prev[j];
+                // if( j-1 >= 0) ld = a[i][j] + dp[i-1][j-1];
+                if( j-1 >= 0) ld = a[i][j] + prev[j-1];
+                // if( j+1 < n ) rd = a[i][j] + dp[i-1][j+1];
+                if( j+1 < n ) rd = a[i][j] + prev[j+1];
 
-                dp[i][j] = min({d, ld, rd});
+                temp[j] = min({d, ld, rd});
             }
+            prev = temp;
         }
-         for(int j=0; j<n; j++){
-            mini = min(mini, dp[n-1][j]);
+
+        for(int j=0; j<n; j++){
+            // mini = min(mini, dp[n-1][j]);
+            mini = min(mini, prev[j]);
         }
         return mini;
     }
