@@ -18,8 +18,22 @@ public:
         }
         if(totSum %2) return false;
         //memoization
-        vector<vector<int>> dp(n, vector<int> (totSum/2 + 1, -1));
+        int target = totSum /2;
+        vector<vector<bool>> dp(n, vector<bool> (target + 1, false));
 
-        return func(n-1, nums, dp, totSum/2);
+        // return func(n-1, nums, dp, totSum/2);
+        for(int i=0; i< n; i++) dp [i][0] = true;
+        // tabulation
+        if(nums[0] <= target) dp[0][nums[0]] = true;
+        for( int i = 1; i<n; i++){
+            for (int t =0; t <= target; t++ ){
+                bool notTake = dp[i -1][t];
+                bool take = false;
+                if(nums[i] <= t) take = dp[i-1][t - nums[i]];
+
+                dp[i][t] = take || notTake;
+            }
+        }
+        return dp[n-1][target];
     }
 };
