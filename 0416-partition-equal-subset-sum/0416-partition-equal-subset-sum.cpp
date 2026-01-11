@@ -1,28 +1,25 @@
 class Solution {
- public:
-  bool canPartition(vector<int>& nums) {
-    const int sum = accumulate(nums.begin(), nums.end(), 0);
-    if (sum % 2 == 1)
-      return false;
-    return knapsack(nums, sum / 2);
-  }
+public:
+    bool func(int i, vector<int> & arr,vector<vector<int>> &dp, int target){
+        if( target == 0) return true;
+        if( i== 0 ) return bool(arr[i] == target);
+        if( dp[i][target] != -1) return dp[i][target];
+        bool take = false;
+        if(arr[i] <= target)take = func(i-1, arr, dp, target - arr[i] );
+        bool not_take = func(i-1, arr, dp,  target) ;
 
- private:
-  bool knapsack(const vector<int>& nums, int subsetSum) {
-    const int n = nums.size();
-    // dp[i][j] := true if j can be formed by nums[0..i)
-    vector<vector<bool>> dp(n + 1, vector<bool>(subsetSum + 1));
-    dp[0][0] = true;
-
-    for (int i = 1; i <= n; ++i) {
-      const int num = nums[i - 1];
-      for (int j = 0; j <= subsetSum; ++j)
-        if (j < num)
-          dp[i][j] = dp[i - 1][j];
-        else
-          dp[i][j] = dp[i - 1][j] || dp[i - 1][j - num];
+        return  dp[i][target]  = (take || not_take);
     }
 
-    return dp[n][subsetSum];
-  }
+    bool canPartition(vector<int>& nums) {
+        int n =nums.size(), totSum = 0 ;
+        for( int i=0; i< n; i++){
+            totSum+= nums[i];
+        }
+        if(totSum %2) return false;
+        //memoization
+        vector<vector<int>> dp(n, vector<int> (totSum/2 + 1, -1));
+
+        return func(n-1, nums, dp, totSum/2);
+    }
 };
