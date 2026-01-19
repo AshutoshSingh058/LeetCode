@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AshutoshSingh058/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3799-word-squares-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-word-squares-ii) |
+| [3804-number-of-centered-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/AshutoshSingh058/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3804-number-of-centered-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3799-word-squares-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-word-squares-ii) |
+| [3804-number-of-centered-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
