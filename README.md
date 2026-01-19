@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3799-word-squares-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/3804-number-of-centered-subarrays) |
+| [3805-count-caesar-cipher-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3799-word-squares-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3805-count-caesar-cipher-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/AshutoshSingh058/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3805-count-caesar-cipher-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3817-maximum-containers-on-a-ship](https://github.com/AshutoshSingh058/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Heap (Priority Queue)
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-number-of-centered-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/3804-number-of-centered-subarrays) |
+| [3805-count-caesar-cipher-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AshutoshSingh058/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [3805-count-caesar-cipher-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Database
 |  |
 | ------- |
