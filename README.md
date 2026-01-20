@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AshutoshSingh058/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AshutoshSingh058/LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/AshutoshSingh058/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/AshutoshSingh058/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AshutoshSingh058/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0101-symmetric-tree) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AshutoshSingh058/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0101-symmetric-tree) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AshutoshSingh058/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/AshutoshSingh058/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AshutoshSingh058/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0213-house-robber-ii) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AshutoshSingh058/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/AshutoshSingh058/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AshutoshSingh058/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
