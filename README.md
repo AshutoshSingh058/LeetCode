@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/AshutoshSingh058/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AshutoshSingh058/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3794-reverse-string-prefix](https://github.com/AshutoshSingh058/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3799-word-squares-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/AshutoshSingh058/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3805-count-caesar-cipher-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3794-reverse-string-prefix](https://github.com/AshutoshSingh058/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Breadth-First Search
 |  |
 | ------- |
