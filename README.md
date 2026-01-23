@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AshutoshSingh058/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AshutoshSingh058/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshutoshSingh058/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AshutoshSingh058/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AshutoshSingh058/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AshutoshSingh058/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AshutoshSingh058/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AshutoshSingh058/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AshutoshSingh058/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-range-product-queries-of-powers](https://github.com/AshutoshSingh058/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/AshutoshSingh058/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AshutoshSingh058/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AshutoshSingh058/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AshutoshSingh058/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1879-maximum-score-from-removing-stones](https://github.com/AshutoshSingh058/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/AshutoshSingh058/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/AshutoshSingh058/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/AshutoshSingh058/LeetCode/tree/master/0876-hand-of-straights) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshutoshSingh058/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AshutoshSingh058/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AshutoshSingh058/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1753-path-with-minimum-effort](https://github.com/AshutoshSingh058/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AshutoshSingh058/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Recursion
 |  |
