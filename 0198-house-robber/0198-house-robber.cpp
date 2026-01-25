@@ -1,16 +1,25 @@
 class Solution {
 public:
+    // Recursive
+
+    int func (int i, vector<int> &v, vector<int> &dp, int sum){
+        if(i<0) return sum;
+        if(i==0) return sum+v[i];
+        // memoization
+        if(dp[i]!=-1) return dp[i] ;
+        int pick =0, notpick =0;
+        pick = v[i] + func(i-2, v, dp, sum);
+        notpick = func(i-1, v, dp, sum);
+
+        return  dp[i] = max(pick, notpick);
+    }
+
+
     int rob(vector<int>& nums) {
-        int prev2 = 0, prev1= nums[0], curr =0;
-        // int p =0, np =0;
-        for(int i=1; i<nums.size(); i++){
-            // p = nums[i] + prev2 ;
-            // np = prev1;
-            curr = max(nums[i] + prev2 ,prev1);
-            // cout<< prev2 << prev1 << curr <<endl;
-            prev2= prev1;
-            prev1= curr;
-        }
-        return prev1;
+        int sum =0, maxSum = 0, n = nums.size();
+        //memoization
+        vector<int> dp(n,-1);
+        maxSum = func(n-1, nums, dp, 0);
+        return maxSum;
     }
 };
