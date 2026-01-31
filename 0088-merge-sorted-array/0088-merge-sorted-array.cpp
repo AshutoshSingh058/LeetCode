@@ -1,9 +1,16 @@
 class Solution {
 public:
-    void merge(vector<int>& v1, int m, vector<int>& v2, int n) {
-        for(int i=m; i<m+n; i++){
-            v1[i]=v2[i-m];
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int k = m+n, j=0;
+        // vector<int> vec(k);
+        for(int i=0; i<n; i++){
+            nums1[i+m] = nums2[i]; 
         }
-        sort(v1.begin(), v1.end());
+
+        // for(int i=0; i<n; i++){
+        //     vec[j] = nums2[i]; j++;
+        // }
+        sort(nums1.begin(), nums1.end());
+        // nums1 = vec;
     }
 };
