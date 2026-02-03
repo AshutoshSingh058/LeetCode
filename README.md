@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AshutoshSingh058/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/AshutoshSingh058/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0045-jump-game-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AshutoshSingh058/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AshutoshSingh058/LeetCode/tree/master/0130-surrounded-regions) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshSingh058/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AshutoshSingh058/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/AshutoshSingh058/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/AshutoshSingh058/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/AshutoshSingh058/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshutoshSingh058/LeetCode/tree/master/0242-valid-anagram) |
