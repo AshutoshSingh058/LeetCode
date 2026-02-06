@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AshutoshSingh058/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AshutoshSingh058/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AshutoshSingh058/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/AshutoshSingh058/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshutoshSingh058/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/AshutoshSingh058/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/AshutoshSingh058/LeetCode/tree/master/0686-repeated-string-match) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AshutoshSingh058/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/AshutoshSingh058/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AshutoshSingh058/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AshutoshSingh058/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/AshutoshSingh058/LeetCode/tree/master/0768-partition-labels) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AshutoshSingh058/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/AshutoshSingh058/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AshutoshSingh058/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/AshutoshSingh058/LeetCode/tree/master/0542-01-matrix) |
