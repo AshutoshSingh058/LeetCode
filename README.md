@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AshutoshSingh058/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AshutoshSingh058/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/AshutoshSingh058/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshSingh058/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AshutoshSingh058/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AshutoshSingh058/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AshutoshSingh058/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AshutoshSingh058/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AshutoshSingh058/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/AshutoshSingh058/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshSingh058/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AshutoshSingh058/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/AshutoshSingh058/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/AshutoshSingh058/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AshutoshSingh058/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AshutoshSingh058/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AshutoshSingh058/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AshutoshSingh058/LeetCode/tree/master/0355-design-twitter) |
