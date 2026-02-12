@@ -1,6 +1,6 @@
 class TimeMap {
 public:
-    map<string, vector<pair<int, string>>> mp;
+    unordered_map<string, vector<pair<int, string>>> mp;
 public:
     TimeMap() {
 
@@ -16,16 +16,21 @@ public:
         // sort(v.begin(), v.end());
         int n = v.size(), l=0, r = n-1, m =0;
         string k = "";
-        while(l<=r){
-            m = (l+r)/2;
-            if(v[m].first <= timestamp) {
-                k = v[m].second;
-                l = m+1;
-            }
-            else {
-                r = m-1;
-            }
-        }
+        // while(l<=r){
+        //     m = (l+r)/2;
+        //     if(v[m].first <= timestamp) {
+        //         k = v[m].second;
+        //         l = m+1;
+        //     }
+        //     else {
+        //         r = m-1;
+        //     }
+        // }
+        auto it = upper_bound(v.begin(), v.end(), make_pair(timestamp, string(1, char(127))));
+    
+    if(it == v.begin()) return "";  // all timestamps > given
+    --it;  // step back to get <= timestamp
+    return it->second;
         // for(int i=0;i<n;i++){
         //     if(v[i].first <= timestamp) k = v[i].second;
         //     // else break;
