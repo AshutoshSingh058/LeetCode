@@ -1,24 +1,30 @@
 class Solution {
 public:
-    void func(vector<int>& candidates, int target, int sum, vector<int>v, 
-    vector<vector<int>>&vec, int start){
+    int n=0;
+    
+    void func(vector<int>& candidates,int &target, int start, int sum, vector<int> &v, vector<vector<int>>&ans){
+        if( sum > target) return;
         if(sum == target){
-            vec.push_back(v);
+            // sort(v.begin(), v.end());
+            ans.push_back(v);
+            return;
         }
-        for(int i=start; i<candidates.size(); i++){
-            if(sum + candidates[i] <= target){
-                v.push_back(candidates[i]);
-                func(candidates, target, sum + candidates[i], v, vec, i);
-                v.pop_back();
-            }
+
+        for(int i=start; i<n; i++){
+            v.push_back(candidates[i]);
+            func(candidates, target, i, sum + candidates[i], v, ans);
+            v.pop_back();
         }
+
+        return;
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>>vec;
-        int sum =0;
-        vector<int>v;
-        func(candidates, target, sum, v , vec , 0 );
-        return vec;
+        vector<vector<int>>ans;
+        vector<int> v;
+        n = candidates.size(); 
+        func(candidates, target, 0, 0, v, ans);
+
+        return ans;
     }
 };
